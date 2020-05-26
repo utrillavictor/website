@@ -1,0 +1,227 @@
+/*=======================================================
+  THEME STYLING START
+========================================================*/
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background: #fff;
+  font-weight: normal;
+  position: relative;
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #262626;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+}
+h4 {
+  font-size: 30px;
+}
+p {
+  color: #333333;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  text-rendering: optimizeLegibility;
+}
+li {
+  list-style: none;
+}
+ul {
+  margin-bottom: 0px;
+}
+a {
+  text-decoration: none;
+  color: #141414;
+}
+a {
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  text-decoration: none !important;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+img {
+  -webkit-transition: 0.4s ease-in-out;
+  -moz-transition: 0.4s ease-in-out;
+  -ms-transition: 0.4s ease-in-out;
+  -o-transition: 0.4s ease-in-out;
+  transition: 0.4s ease-in-out;
+  display: inline-block !important;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+main {
+  display: block;
+}
+.border-bottom {
+  border-bottom: 1px solid #e6e6e6;
+}
+.padding-25 {
+  padding: 25px !important;
+}
+.padding-30 {
+  padding: 30px !important;
+}
+.margin-top-30 {
+  margin-top: 30px !important;
+}
+
+#wrap {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+.main-content {
+  min-height: 100%;
+  position: relative;
+  z-index: 2;
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  -webkit-transition-property: -webkit-transform;
+  -moz-transition-property: -moz-transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.4s;
+  -moz-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.resume {
+  background: #eceff1;
+  padding: 40px 0;
+}
+.sidebar {
+  background-color: #fff;
+}
+h5.title {
+  font-size: 18px;
+  padding: 20px;
+  margin: 0px;
+  color: #333333;
+  letter-spacing: 1px;
+  border-bottom: 1px solid #e6e6e6;
+}
+.sidebar .personal-info {
+  padding: 25px;
+  border-bottom: 1px solid #e6e6e6;
+}
+.sidebar .personal-info li p {
+  margin: 0px;
+  line-height: 30px;
+}
+.sidebar .personal-info li span {
+  width: 50%;
+  float: left;
+  font-weight: bold;
+}
+.social-icon li {
+  display: inline-block;
+}
+.social-icon li a {
+  color: #333333;
+  border: 1px solid #cdcdcd;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  float: left;
+  text-align: center;
+  font-size: 20px;
+  line-height: 48px;
+  margin-right: 8px;
+}
+.social-icon li a:hover {
+  background: #333333;
+  color: #fff;
+  border: 1px solid #333333;
+}
+.social-icon li a {
+  border-radius: 0 !important;
+}
+.side-content {
+  width: 100%;
+  display: inline-block;
+  background: #fff;
+  padding-bottom: 20px;
+}
+/*=======================================================
+  Professional Experience
+========================================================*/
+.experience {
+  padding-bottom: 40px;
+}
+.experience .sun {
+  font-size: 13px;
+  font-weight: bold;
+  display: inline-block;
+  width: 130px;
+}
+.experience .media-body {
+  position: relative;
+}
+.experience .company-logo {
+  position: absolute;
+  right: 0px;
+}
+.experience .media-body,
+.media-left {
+  display: table-cell;
+  vertical-align: top;
+}
+.experience .media-body ul {
+  margin-left: 15px;
+}
+.experience .media-body ul li {
+  list-style-position: outside;
+  list-style-type: square;
+}
+.progress {
+  margin-top: 1rem;
+}
+
+.rights {
+  background: #1a1a1a;
+  padding: 10px 0;
+  text-align: center;
+}
+.rights p {
+  margin: 0px;
+  color: #808080;
+}
+
+/*=======================================================
+  React Tabs
+========================================================*/
+.react-tabs {
+  margin: 0px 0 0 !important;
+}
+.react-tabs__tab--selected {
+  border-color: #e6e6e6 !important;
+}
+.react-tabs__tab-list {
+  border-bottom: 1px solid #e6e6e6 !important;
+  margin: 0 !important;
+  padding: 0;
+}

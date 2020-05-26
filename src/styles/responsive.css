@@ -1,0 +1,17 @@
+@media(max-width: 767px) {
+  .resume {
+    padding: 20px 0 25px !important;
+  }
+  .experience .media-left {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  .experience .company-logo {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  .react-tabs {
+    margin: 40px 0 0 !important;
+  }
+}

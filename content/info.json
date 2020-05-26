@@ -1,0 +1,75 @@
+{
+  "about": {
+    "name": "Victor Utrilla",
+    "location": "San Francisco, CA",
+    "experience": "10 years",
+    "level": "Mid-level",
+    "industry": "Information Technology"
+  },
+  "experience": [
+    {
+      "period": "2018 - 2020",
+      "company": "Avenue Code",
+      "position": "iOS Engineer",
+      "location": "San Francisco, CA, USA",
+      "descriptions": [
+        "As a contractor at PG&E, collaborated in the development of internal iOS applications that allow workers to submit their timesheets, and for supervisors the ability to take actions on timesheets submitted by their employees.",
+        "Implemented a major component to render equipment assets (Pole, Tower structures, field switches and insulators) in a map, allowing field workers to perform security inspections to prevent wildfires.",
+        "Facilitated and led architecture discussion on refactor and implementation of MVVM+C design pattern for entire “Inspect” app, greatly improving codebase maintainability as well as testability."
+      ]
+    },
+    {
+      "period": "2014 - 2018",
+      "company": "Family Dollar",
+      "position": "iOS Developer",
+      "location": "Charlotte, NC, USA",
+      "descriptions": [
+        "Contributed to the development of mobile applications which helped the company to replenish and track their inventory.",
+        "Collaborated with multiple suppliers to review, test and integrate the most optimal mobile printers for handheld Android devices."
+      ]
+    },
+    {
+      "period": "2014 - 2014",
+      "company": "La casa de los Pixeles",
+      "position": "Senior Software Developer",
+      "location": "Puebla, MX",
+      "descriptions": [
+        "Developed a white label Software application to manage theater accounts.",
+        "Designed and implemented an API Mashery from multiple resources like West World Media, GoWatchIt and Metacritic services."
+      ]
+    },
+    {
+      "period": "2012 - 2013",
+      "company": "Digizent International",
+      "position": "Software Developer",
+      "location": "Puebla, MX",
+      "descriptions": [
+        "Collaborated in the development a formal Grammar and Recursive Descent Parser language called 'Molecular Embedded Rule Language' or MERLin for short, with the ability to change content such as payment forms, images, text or html files into dynamic content presentation.",
+        "Developed websites for multiple businesses."
+      ]
+    },
+    {
+      "period": "2010 - 2011",
+      "company": "Zutri Consulting Firm",
+      "position": "Software Developer",
+      "location": "Puebla, MX",
+      "descriptions": [
+        "Designed and implemented SQL scripts to solve database compatibility problems with a client's ERP system.",
+        "Created a small Loyalty Program to help micro enterprises to achieve customer relationship strategies."
+      ]
+    }
+  ],
+  "education": {
+    "period": "2006 - 2011",
+    "degree": "Bachelor of Science In Systems Engineering",
+    "location": "Puebla, Mexico"
+  },
+  "skills": {
+    "swift": "75%",
+    "javascript": "65%",
+    "php": "65%",
+    "sql": "50%",
+    "css": "30%",
+    "python": "30%"
+  }
+}
